@@ -1,0 +1,21 @@
+{
+  "name": "codesandboxclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "debug": "^4.3.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "express-socket.io-session": "^1.3.5",
+    "nodemon": "^2.0.7",
+    "redis": "^3.1.2",
+    "socket.io": "^4.1.2"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "ELBEG",
+  "license": "MIT"
+}
